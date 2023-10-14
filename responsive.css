@@ -1,0 +1,274 @@
+@media (width > 768px)  {
+        .ovals{
+            width: 820px;
+            height: 303px;
+            flex-shrink: 0;
+            column-gap: 32px;
+        }
+        .n1, .n2, .n3, .n4, .n5, .n6{
+            row-gap: 28px;
+        }
+
+        .im{
+            width: 110px;
+            height: 110px;
+        }
+
+        .oval1, .oval2{
+            column-gap: 25px;
+            width: 394px;
+            height: 303px;
+
+        }
+        
+
+        .gfce{
+            color: #28283D;
+            text-align: center;
+            font-family: Red "Hat Display";
+            font-size: 48px;
+            font-style: normal;
+            font-weight: 900;
+            line-height: 48px; /* 100% */
+            width: 339px;
+        }
+
+
+
+    
+        .pp1{
+            color: #87879D;
+            text-align: center;
+            font-family: Red "Hat Display";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 26px; /* 162.5% */
+            width: 457px;
+        }
+
+
+        .buttonn{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+            column-gap: 16px;
+            margin-top: 32px;
+        
+
+        }
+
+        .button{
+            margin-bottom: 28px;
+        }
+
+
+        .pics{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+            margin-top: 80px;
+            column-gap: 20px;
+            
+        }
+
+        .h3{
+            color: #4D96A9;
+            font-family: Red "Hat Display";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 900;
+            line-height: 26px; /* 162.5% */
+            letter-spacing: 4px;
+            text-transform: uppercase;
+        }
+
+
+        .smai{color: #28283D;
+            text-align: center;
+            font-family: Red "Hat Display";
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 900;
+            line-height: 44px; /* 110% */
+            width: 445px;     
+         }
+
+         .smai1{color: #87879D;
+            text-align: center;
+            font-family: Red "Hat Display";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 26px; /* 162.5% */
+            width: 573px;
+
+         }
+ 
+
+         .last{
+            width: 768px;
+            height: 428px;
+          
+
+         }
+
+         .emt{
+
+            color: #FAFAFA;
+            text-align: center;
+            font-family: Red "Hat Display";
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 900;
+            line-height: 44px; /* 110% */
+
+         }
+
+
+
+         .emt1{
+            color: #FAFAFA;
+            text-align: center;
+            font-family: Red "Hat Display";
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 26px; /* 144.444% */
+            width: 573px;
+         }
+
+
+        
+
+
+
+
+
+}
+
+
+
+
+@media (width > 1440px)  {
+
+    .ovals{
+        width: 1504px;
+        height: 358px;
+       
+    }
+
+    .ovl{
+        display: flex;
+        width: 540px;
+height: 304px;
+flex-shrink: 0;
+    }
+
+    .group3{
+        display: none;
+    }
+
+    .pics{
+        width: 90%;
+        height: 242px;
+    }
+    
+
+    .bm1, .bm2, .bm3, .bm4{
+        width: 255px;
+    height: 242px;
+    border-radius: 8px;
+    background: #D8D8D8;
+    }
+
+
+    .h3{
+        color: #4D96A9;
+font-family: Red "Hat Display";
+font-size: 16px;
+font-style: normal;
+font-weight: 900;
+line-height: 26px; /* 162.5% */
+letter-spacing: 4px;
+text-transform: uppercase;
+    }
+
+
+
+    .smaiop{color: #28283D;
+        text-align: center;
+        font-family: Red "Hat Display";
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 44px; /* 110% */
+        width: 445px;
+
+    }
+
+
+    .smai1{
+        color: #87879D;
+text-align: center;
+font-family: Red "Hat Display";
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 144.444% */
+width: 540px;
+    }
+
+
+    .last{
+        width: 1440px;
+        height: 308px;
+        flex-shrink: 0;
+        display: flex;
+        flex-direction: row;
+
+    
+    }
+
+    .emt{
+        color: #FAFAFA;
+font-family: Red "Hat Display";
+font-size: 40px;
+font-style: normal;
+font-weight: 900;
+line-height: 44px; /* 110% */
+width: 350px;
+margin-left: 165px;
+    }
+
+
+    .emt1{color: #FAFAFA;
+        font-family: Red "Hat Display";
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 26px; /* 144.444% */
+        width: 350px;
+        margin-left: 125px;
+    }
+
+
+
+    .button1{
+        margin-left: 92px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
